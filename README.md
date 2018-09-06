@@ -1,2 +1,2 @@
 # golang-redmine-api-
-created a api to connect with redmine 
+created an api to connect with redmine to post some data in redmine issue section.
